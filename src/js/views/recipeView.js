@@ -1,6 +1,6 @@
 import View from './View.js';
 
-import icons from 'url:../../img/icons.svg'; // Method of importing static assets for Parcel 2
+import icons from 'url:../../img/icons'; // Method of importing static assets for Parcel 2
 const fracty = require('fracty'); // Importing Fracty library
 
 class RecipeView extends View {

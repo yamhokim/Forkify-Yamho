@@ -1,4 +1,4 @@
-import icons from 'url:../../img/icons.svg'; // Method of importing static assets for Parcel 2
+import icons from 'url:../../img/icons'; // Method of importing static assets for Parcel 2
 
 export default class View {
   _data;
