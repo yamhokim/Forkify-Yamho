@@ -1,21 +1,19 @@
 {
-  "name": "forkify",
+  "name": "forkify-yamho-app",
   "version": "1.0.0",
-  "description": "Recipe Application",
-  "default": "index.html",
+  "description": "Front-end recipe application with custom recipe uploads.",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist"
   },
   "author": "Yoonho Kim",
   "license": "ISC",
-  "devDependencies": {
-    "@parcel/transformer-js": "^2.12.0",
-    "@parcel/transformer-sass": "^2.12.0",
-    "parcel": "^2.12.0"
-  },
   "dependencies": {
-    "@parcel/watcher": "^2.4.1",
+    "parcel": "^2.12.0",
+    "sass": "^1.77.6"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.12.0",
     "core-js": "^3.37.1",
     "fractional": "^1.0.0",
     "regenerator-runtime": "^0.14.1"
