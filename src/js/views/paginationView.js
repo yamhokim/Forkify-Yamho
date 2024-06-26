@@ -1,5 +1,5 @@
 import View from './View.js';
-import icons from 'url:../../img/icons'; // Method of importing static assets for Parcel 2
+import icons from 'url:../../img/icons.svg'; // Method of importing static assets for Parcel 2
 
 class PaginationView extends View {
   _parentElement = document.querySelector('.pagination');
@@ -11,7 +11,7 @@ class PaginationView extends View {
       }" class="btn--inline pagination__btn--next">
         <span>Page ${currPage + 1}</span>
         <svg class="search__icon">
-          <use href="${icons}.svg#icon-arrow-right"></use>
+          <use href="${icons}#icon-arrow-right"></use>
         </svg>
       </button>
     `;
@@ -23,7 +23,7 @@ class PaginationView extends View {
         currPage - 1
       }" class="btn--inline pagination__btn--prev">
         <svg class="search__icon">
-          <use href="${icons}.svg#icon-arrow-left"></use>
+          <use href="${icons}#icon-arrow-left"></use>
         </svg>
         <span>Page ${currPage - 1}</span>
       </button>

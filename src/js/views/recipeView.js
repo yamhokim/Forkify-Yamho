@@ -1,6 +1,6 @@
 import View from './View.js';
 
-import icons from 'url:../../img/icons'; // Method of importing static assets for Parcel 2
+import icons from 'url:../../img/icons.svg'; // Method of importing static assets for Parcel 2
 const fracty = require('fracty'); // Importing Fracty library
 
 class RecipeView extends View {
@@ -78,7 +78,7 @@ class RecipeView extends View {
 
         <div class="recipe__user-generated ${this._data.key ? '' : 'hidden'}">
           <svg>
-            <use href="${icons}.svg#icon-user"></use>
+            <use href="${icons}#icon-user"></use>
           </svg>
         </div>
         <button class="btn--round btn--bookmark">
