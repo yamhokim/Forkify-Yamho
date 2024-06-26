@@ -4,7 +4,7 @@
   "description": "Front-end recipe application with custom recipe uploads.",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --no-scope-hoist --dist-dir ./dist"
+    "build": "parcel build index.html --no-scope-hoist"
   },
   "author": "Yoonho Kim",
   "license": "ISC",
