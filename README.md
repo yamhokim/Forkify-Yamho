@@ -1,11 +1,12 @@
-# Project Name
+# Forkify Yamho
 
-> A brief description of your project and what it aims to achieve.
+> Forkify is a dynamic web application designed to streamline your culinary adventures. Built with Node.js, JavaScript, SASS, and HTML, this platform allows users to browse a wide variety of recipes, save their favorite dishes, and even contribute their own custom recipes. Whether you're a seasoned chef or a cooking novice, Recipe Tracker offers a user-friendly interface to help you manage and explore your culinary repertoire.
 
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Features](#features)
 - [Contact](#contact)
 
 ## Installation
@@ -52,6 +53,14 @@ To create a production build;
 ```bash
 npm run build
 ```
+
+## Features
+
+- **Browse Recipes:** Discover a vast collection of recipes across various cuisines and dietary preferences provided by the Forkify API.
+- **Save Favorites:** Keep track of your favorite recipes for easy access and future reference.
+- **Add Custom Recipes:** Share your culinary creations with the community by adding your own custom recipes.
+- **Responsive Design:** Enjoy a seamless experience on both desktop and mobile devices, thanks to a responsive design powered by SASS.
+- **User-Friendly Interface:** Navigate the website with ease, thanks to an intuitive and clean user interface designed following the MVC design pattern.
 
 ## Contact
 
