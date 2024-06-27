@@ -70,7 +70,10 @@ You can check out a live demo of the Forkify Yamho application hosted on Netlify
 
 Feel free to explore the functionality and user interface. Please note that while the demo is fully functional, some features might be limited or use mock data for demonstration purposes.
 
-## Contact
+## Contact & Links
 
 Yoonho Kim - yoonho.luke.kim@gmail.com or yamho.kim@mail.utoronto.ca
+
 Project Link: https://github.com/yamhokim/Forkify-Yamho
+
+Forkify API Documentation: https://forkify-api.herokuapp.com/v2
