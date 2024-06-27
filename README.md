@@ -60,7 +60,7 @@ npm run build
 - **Save Favorites:** Keep track of your favorite recipes for easy access and future reference.
 - **Add Custom Recipes:** Share your culinary creations with the community by adding your own custom recipes.
 - **Responsive Design:** Enjoy a seamless experience on both desktop and mobile devices, thanks to a responsive design powered by SASS.
-- **User-Friendly Interface:** Navigate the website with ease, thanks to an intuitive and clean user interface designed following the MVC design pattern.
+- **User-Friendly Interface:** Navigate the website with ease, thanks to an intuitive and clean user interface and backend designed following the MVC design pattern.
 
 ## Demo
 
