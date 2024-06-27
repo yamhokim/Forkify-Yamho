@@ -62,6 +62,14 @@ npm run build
 - **Responsive Design:** Enjoy a seamless experience on both desktop and mobile devices, thanks to a responsive design powered by SASS.
 - **User-Friendly Interface:** Navigate the website with ease, thanks to an intuitive and clean user interface designed following the MVC design pattern.
 
+## Demo
+
+You can check out a live demo of the Forkify Yamho application hosted on Netlify. This demo version showcases the core features of the application, allowing you to browse, save, and add custom recipes.
+
+### [Live Demo on Netlify](https://forkify-yamho.netlify.app/)
+
+Feel free to explore the functionality and user interface. Please note that while the demo is fully functional, some features might be limited or use mock data for demonstration purposes.
+
 ## Contact
 
 Yoonho Kim - yoonho.luke.kim@gmail.com or yamho.kim@mail.utoronto.ca
