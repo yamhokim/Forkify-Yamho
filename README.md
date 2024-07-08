@@ -1,6 +1,6 @@
 # Forkify Yamho
 
-> Forkify is a dynamic web application designed to streamline your culinary adventures. Built with Node.js, JavaScript, SASS, and HTML, this platform allows users to browse a wide variety of recipes, save their favorite dishes, and even contribute their own custom recipes. Whether you're a seasoned chef or a cooking novice, Forkify Yamho offers a user-friendly interface to help you manage and explore your culinary repertoire.
+> Forkify is a dynamic web application designed to streamline your culinary adventures. Built with Node.js, Vanilla JavaScript, SASS, and HTML, this platform allows users to browse a wide variety of recipes, save their favorite dishes, and even contribute their own custom recipes. Whether you're a seasoned chef or a cooking novice, Forkify Yamho offers a user-friendly interface to help you manage and explore your culinary repertoire.
 
 ## Table of Contents
 
